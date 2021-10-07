@@ -1,2 +1,7 @@
-# django-study-app
-Study application build with Django. Based on a course from Dennis Ivy.
+# Django study application
+
+### Technologies used:
+* Django
+* SQLite
+* Django REST framework
+
